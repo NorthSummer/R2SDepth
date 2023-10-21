@@ -28,8 +28,6 @@ Additionally, we generate a dataset named Spike-KITTI by a spike camera simulato
 
 ## Install
 
-This module depends upon a knowledge of [Markdown]().
-
 ```
 pip install -r requirements.txt
 ```
