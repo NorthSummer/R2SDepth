@@ -49,6 +49,7 @@ pip install -r requirements.txt
 ####  Visualization of Neuromorphic Depth Prediction on Spike KITTI
 
 ![neuromorphic.gif](https://i.imgs.ovh/2023/10/20/2s7NA.gif)
+
 ####  Visualization of Fusion Depth Prediction on Spike KITTI
 
 ![fusion.gif](https://i.imgs.ovh/2023/10/20/2sQp5.gif)
