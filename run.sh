@@ -1,0 +1,2 @@
+#nohup horovodrun -np 3 -H localhost:3 python scripts/train.py configs/train_kitti_spike.yaml
+nohup nohup horovodrun -np 6 -H localhost:6 python scripts/train.py configs/train_kitti_spike.yaml 2>&1 | tee log &
